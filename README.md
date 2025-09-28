@@ -1,2 +1,2 @@
-# phd-depp-learning
+# phd-deap-learning
 
