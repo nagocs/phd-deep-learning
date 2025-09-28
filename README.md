@@ -1,2 +1,3 @@
-# phd-deap-learning
+# Deep Learning a gyakorlatban
+- Kis HF 1 kész.
 
